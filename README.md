@@ -48,7 +48,7 @@ Infralink is a full-stack web application prototype designed to provide real-tim
 ## Setup Instructions
 
 ### 1. Clone the repository
-```bash
+``bash
 git clone <repository_url>
 cd Infralink_Full_Version
 
