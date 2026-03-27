@@ -1,16 +1,3 @@
-Here’s a polished GitHub description and README for your Infralink project that’s clear, professional, and report-ready:
-
-⸻
-
-GitHub Repository Description
-
-Infralink – Real-time Infrastructure Project Tracking Web App
-A full-stack prototype to monitor construction and infrastructure projects, with a web-based dashboard, real-time updates, and user feedback collection. Built using HTML/CSS/JS, Flask, and MySQL.
-
-⸻
-
-README.md
-
 # Infralink – Infrastructure Project Tracking Web App
 
 Infralink is a full-stack web application prototype designed to provide real-time updates on construction and infrastructure projects. It enables users to view project timelines, progress, updates, and submit feedback, aiming to improve transparency and communication in urban development.
@@ -106,5 +93,3 @@ Tech Stack
 License
 
 This project is for academic/demo purposes.
-
----
